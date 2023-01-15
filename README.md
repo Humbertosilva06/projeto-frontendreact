@@ -26,9 +26,12 @@ Conhecimentos utilizados:
 ## Apresentação da loja Mercadão da Nasa
 
 ```
-Olá conpanheiro sideral, se estava a procura dos mais diversos, estravagantes e inimagináveis produtos espaciais sua procura acabou, nossa loja tem a solução
+Olá conpanheiro sideral, se estava a procura dos mais diversos, estravagantes e inimagináveis produtos
+espaciais sua procura acabou, nossa loja tem a solução
 
-Aqui vc encontrá desde um belo e reforçado traje de astronauta, passando por uma deliciosa ração espacial que parece comida de verdade, até chegar a itens que são o sonho de consumo de qualquer ser do planeta Terra e fora dele, como terrenos em Plutão, viagens a lua, caronas em famosos cometas e muito mais.
+Aqui vc encontrá desde um belo e reforçado traje de astronauta, passando por uma deliciosa ração espacial
+que parece comida de verdade, até chegar a itens que são o sonho de consumo de qualquer ser do planeta Terra e 
+fora dele, como terrenos em Plutão, viagens a lua, caronas em famosos cometas e muito mais.
 ```
 
 
