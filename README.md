@@ -2,6 +2,7 @@
 
 Esse é o projeto de introdução aos fundamentos do React do bootcamp Labenu. O intuito do projeto é a pratica da estrutura do que se considea a estrutura do React. O objetivo é que funcione como o front-end de um E-Commerce
 
+
 Conhecimentos utilizados:
 
 - JSX
@@ -42,3 +43,7 @@ fora dele, como terrenos em Plutão, viagens a lua, caronas em famosos cometas e
  - Permite pesquisa por nome, valor minimo, valor maximo. Os filtros podem ser utilizados individualmente ou em conjunto
  - O usuario pode adicionar os produtos no carrinho, onde aparece a quantidade de itens de cada produto e o valor total da compra
  - é possivel remover os produtos um a um ou todos de uma vez ao clicar em  Limpar Carrinho
+ 
+## acesse
+
+https://projeto-labenu-front-end-react-humberto.surge.sh/
